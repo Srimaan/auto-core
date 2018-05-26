@@ -1,0 +1,2 @@
+# auto-core
+Automation Core
